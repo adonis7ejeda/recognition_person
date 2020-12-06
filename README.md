@@ -5,13 +5,13 @@ ANN(Artificial Neuronal Network) model able to classify images
 
 ## 📷 Dataset
 For the creation of the dataset, the most representative teams in the country were taken into account:
-- :white_circle: :red_circle: Club Deportivo Popular Junior
-- :white_circle: :green_circle: Atletico Nacional
-- :blue_circle: :red_circle: Deportivo Independiente Medellin
-- :white_circle: :green_circle: Asociacion Deportivo Cali
+- :white_circle::red_circle: Club Deportivo Popular Junior
+- :white_circle::green_circle: Atletico Nacional
+- :large_blue_circle::red_circle: Deportivo Independiente Medellin
+- :white_circle::green_circle: Asociacion Deportivo Cali
 - :red_circle: America de Cali
-- :white_circle: :red_circle: Club Independiente Santa Fe
-- :white_circle: :blue_circle: Millonarios FC
+- :white_circle::red_circle: Club Independiente Santa Fe
+- :white_circle::large_blue_circle: Millonarios FC
 
 The extension of the dataset images are in jpg format, each one numbered from 0 to 20.
 These images are stored in 7 different folders, numbered from 00000 to 00006:
